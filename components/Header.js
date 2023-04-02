@@ -42,6 +42,7 @@ function Header({ placeholder }) {
         guestNumber: guestNumber,
       },
     });
+    setSearchInput("");
   };
 
   return (
